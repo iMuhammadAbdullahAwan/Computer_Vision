@@ -1,6 +1,26 @@
 # ECG Image Digitization - Kaggle Competition Report
 
-## 📊 Project Overview
+## � Team Members
+
+| Roll Number | Name |
+|-------------|------|
+| 2022-SE-08 | Muhammad Abdullah Awan |
+| 2022-SE-18 | Umair Imtiza Khokhar |
+| 2022-SE-29 | Awais Ahmed Abbasic |
+
+## 📸 Team Image
+
+![Team Image](team_image.png)
+*Add your team image here by placing it in the project directory*
+
+## 🏆 Kaggle Score
+
+![Kaggle Score](kaggle_score.png)
+*Add your Kaggle score screenshot here by placing it in the project directory*
+
+---
+
+## �📊 Project Overview
 
 This project tackles the **PhysioNet ECG Image Digitization Challenge** on Kaggle, which aims to extract time-series ECG signals from printed/scanned ECG images. The challenge is to convert 12-lead ECG images back into their original digital waveform data.
 
